@@ -17,5 +17,6 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/)
 
 ## Important!
 DO MAKE A .env FILE TO SAVE YOUR PASSWORDS AND OTHER SENSITIVE INFO.
+
 [Link for more info](https://www.twilio.com/blog/environment-variables-python).
 (Read the section "Using .env files")
