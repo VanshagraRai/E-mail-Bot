@@ -55,7 +55,7 @@ def send_email(receiver, subject, message):
 
 
 email_list = {
-    "first": "abcd.rai@gmail.com",
+    "first": "abcd@gmail.com",
     "second":"efgh@gmail.com"
 }
 
